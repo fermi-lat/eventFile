@@ -1,0 +1,29 @@
+------------------------------------------------------------
+User: blee  Thu Feb 23 07:55:59 PST 2006
+CHS/eventFile
+
+Log Message:
+Initial import of eventFile
+
+Status:
+
+Vendor Tag:	initial
+Release Tags:	v0
+		
+N CHS/eventFile/.cvsignore
+N CHS/eventFile/eventFile/EBF_Data.h
+N CHS/eventFile/eventFile/LSE_Context.h
+N CHS/eventFile/eventFile/LSE_GemTime.h
+N CHS/eventFile/eventFile/LSE_Info.h
+N CHS/eventFile/src/LSE_Context.cxx
+N CHS/eventFile/src/mainpage.h
+N CHS/eventFile/src/LSE_GemTime.cxx
+N CHS/eventFile/src/LSE_Info.cxx
+N CHS/eventFile/cmt/requirements
+N CHS/eventFile/cmt/.cvsignore
+N CHS/eventFile/doc/.cvsignore
+N CHS/eventFile/doc/release.notes
+
+No conflicts created by this import
+
+    *
