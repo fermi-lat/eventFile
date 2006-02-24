@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: blee  Thu Feb 23 16:58:21 PST 2006
+CHS/eventFile/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+write/reads binary event files
+    *
+------------------------------------------------------------
 User: blee  Thu Feb 23 16:54:52 PST 2006
 CHS/eventFile/src/test
 
