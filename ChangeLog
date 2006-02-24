@@ -1,5 +1,16 @@
 ------------------------------------------------------------
 User: blee  Thu Feb 23 16:58:21 PST 2006
+CHS/eventFile/eventFile
+
+Modified Files:
+	EBF_Data.h LSE_Context.h LSE_GemTime.h LSE_Info.h 
+Added Files:
+	LPA_File.h 
+Log Message:
+write/reads binary event files
+    *
+------------------------------------------------------------
+User: blee  Thu Feb 23 16:58:21 PST 2006
 CHS/eventFile/doc
 
 Modified Files:
