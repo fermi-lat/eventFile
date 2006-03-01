@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: blee  Wed Mar  1 15:13:18 PST 2006
+CHS/eventFile/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+added runid
+    *
+------------------------------------------------------------
 TAG
 Tag name: v0r1, operation: add
 Package: eventFile
