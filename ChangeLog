@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: blee  Wed Mar  1 15:13:18 PST 2006
+CHS/eventFile/eventFile
+
+Modified Files:
+	LPA_File.h 
+Log Message:
+added runid
+    *
+------------------------------------------------------------
+User: blee  Wed Mar  1 15:13:18 PST 2006
 CHS/eventFile/doc
 
 Modified Files:
