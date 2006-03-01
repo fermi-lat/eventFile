@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: blee  Wed Mar  1 15:13:19 PST 2006
+CHS/eventFile/src/test
+
+Modified Files:
+	events.lpa test_LPA_File.cxx 
+Log Message:
+added runid
+    *
+------------------------------------------------------------
 User: blee  Wed Mar  1 15:13:18 PST 2006
 CHS/eventFile/src
 
