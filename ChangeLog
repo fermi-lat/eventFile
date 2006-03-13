@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: blee  Mon Mar 13 09:25:50 PST 2006
+CHS/eventFile/src
+
+Modified Files:
+	LPA_File.cxx 
+Log Message:
+added event-count and gem seq members, but didn't persist them yet
+    *
+------------------------------------------------------------
 User: blee  Mon Mar 13 09:25:49 PST 2006
 CHS/eventFile/eventFile
 
