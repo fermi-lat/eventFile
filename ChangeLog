@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: blee  Mon Mar 13 09:25:49 PST 2006
+CHS/eventFile/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+added event-count and gem seq members, but didn't persist them yet
+    *
+------------------------------------------------------------
+User: blee  Mon Mar 13 09:25:49 PST 2006
 CHS/eventFile/cmt
 
 Modified Files:
