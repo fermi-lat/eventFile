@@ -1,4 +1,33 @@
 ------------------------------------------------------------
+TAG
+Tag name: v0r3p1, operation: add
+Package: eventFile
+User: blee  Wed Mar 29 07:18:42 2006
+Files:
+  eventFile/.cvsignore  1.1.1.1
+  eventFile/ChangeLog  1.20
+  eventFile/cmt/.cvsignore  1.1.1.1
+  eventFile/cmt/requirements  1.5
+  eventFile/doc/.cvsignore  1.1.1.1
+  eventFile/doc/release.notes  1.5
+  eventFile/eventFile/LSE_GemTime.h  1.2
+  eventFile/eventFile/LSE_Context.h  1.2
+  eventFile/eventFile/LSE_Info.h  1.2
+  eventFile/eventFile/LPA_File.h  1.3
+  eventFile/eventFile/EBF_Data.h  1.2
+  eventFile/src/LPA_File.cxx  1.3
+  eventFile/src/mainpage.h  1.1.1.1
+  eventFile/src/EBF_Data.cxx  1.2
+  eventFile/src/LSE_Info.cxx  1.1.1.1
+  eventFile/src/LSE_GemTime.cxx  1.1.1.1
+  eventFile/src/LSE_Context.cxx  1.1.1.1
+  eventFile/src/test/test_LPA_File.cxx  1.2
+  eventFile/src/test/LDFdump.cc  1.1
+  eventFile/src/test/allgamma.txt  1.1
+  eventFile/src/test/events.lpa  1.2
+
+    *
+------------------------------------------------------------
 User: blee  Wed Mar 29 07:18:26 PST 2006
 CHS/eventFile/doc
 
