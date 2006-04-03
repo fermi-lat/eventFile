@@ -1,5 +1,16 @@
 ------------------------------------------------------------
 User: blee  Mon Apr  3 07:36:02 PDT 2006
+CHS/eventFile/src/test
+
+Added Files:
+	LDFdump.cxx 
+Removed Files:
+	LDFdump.cc 
+Log Message:
+updated to LDF 6.0.1
+    *
+------------------------------------------------------------
+User: blee  Mon Apr  3 07:36:02 PDT 2006
 CHS/eventFile/doc
 
 Modified Files:
