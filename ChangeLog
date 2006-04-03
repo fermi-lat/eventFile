@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: blee  Mon Apr  3 07:36:02 PDT 2006
+CHS/eventFile/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+updated to LDF 6.0.1
+    *
+------------------------------------------------------------
 TAG
 Tag name: v0r3p1, operation: add
 Package: eventFile
