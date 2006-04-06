@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: blee  Thu Apr  6 13:54:45 PDT 2006
+CHS/eventFile/eventFile
+
+Modified Files:
+	LSE_Info.h 
+Log Message:
+use 64-bit file access, and define structures for LCI data
+    *
+------------------------------------------------------------
+User: blee  Thu Apr  6 13:54:45 PDT 2006
 CHS/eventFile/cmt
 
 Modified Files:
