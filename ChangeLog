@@ -1,5 +1,16 @@
 ------------------------------------------------------------
 User: blee  Fri Apr  7 15:56:20 PDT 2006
+CHS/eventFile/src
+
+Modified Files:
+	LSEReader.cxx 
+Added Files:
+	LSFReader.cxx 
+Log Message:
+added derived LSFReader class to provide interface in terms of lsfData objects
+    *
+------------------------------------------------------------
+User: blee  Fri Apr  7 15:56:20 PDT 2006
 CHS/eventFile/eventFile
 
 Modified Files:
