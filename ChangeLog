@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: blee  Sun Apr  9 12:47:26 PDT 2006
+CHS/eventFile/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+added DFI error summary counters to file header
+    *
+------------------------------------------------------------
 TAG
 Tag name: v1, operation: add
 Package: eventFile
