@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: blee  Mon Apr 17 09:25:50 PDT 2006
+CHS/eventFile/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+initialize DFI-error arrays in LSE file header
+    *
+------------------------------------------------------------
 TAG
 Tag name: v1r0, operation: add
 Package: eventFile
