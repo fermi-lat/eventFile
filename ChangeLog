@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: blee  Mon Apr 17 09:25:51 PDT 2006
+CHS/eventFile/src
+
+Modified Files:
+	LSEHeader.cxx 
+Log Message:
+initialize DFI-error arrays in LSE file header
+    *
+------------------------------------------------------------
 User: blee  Mon Apr 17 09:25:50 PDT 2006
 CHS/eventFile/cmt
 
