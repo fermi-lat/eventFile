@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: blee  Tue May  2 13:26:47 PDT 2006
+CHS/eventFile/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+fixed cppflags in requirements file for WIN32
+    *
+------------------------------------------------------------
 TAG
 Tag name: v1r0p2, operation: add
 Package: eventFile
