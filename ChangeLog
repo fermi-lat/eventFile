@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: blee  Thu May  4 14:11:49 PDT 2006
+CHS/eventFile/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+more WIN32 tweaking
+    *
+------------------------------------------------------------
 TAG
 Tag name: v1r0p4, operation: add
 Package: eventFile
