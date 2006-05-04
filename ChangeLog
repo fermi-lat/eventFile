@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: blee  Thu May  4 14:22:18 PDT 2006
+CHS/eventFile/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+fixed silly WIN32 cppflags spacing problem
+    *
+------------------------------------------------------------
 TAG
 Tag name: v1r0p5, operation: add
 Package: eventFile
