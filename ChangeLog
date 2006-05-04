@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: blee  Thu May  4 07:16:52 PDT 2006
+CHS/eventFile/src
+
+Modified Files:
+	LSEWriter.cxx 
+Log Message:
+more WIN32 tweaks
+    *
+------------------------------------------------------------
 User: blee  Thu May  4 07:16:51 PDT 2006
 CHS/eventFile/cmt
 
