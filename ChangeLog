@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: blee  Thu May  4 14:11:49 PDT 2006
+CHS/eventFile/src
+
+Modified Files:
+	LSEReader.cxx LSEWriter.cxx 
+Log Message:
+more WIN32 tweaking
+    *
+------------------------------------------------------------
+User: blee  Thu May  4 14:11:49 PDT 2006
 CHS/eventFile/cmt
 
 Modified Files:
