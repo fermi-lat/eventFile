@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: blee  Fri May  5 08:27:59 PDT 2006
+CHS/eventFile/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+added declaration of _fseeki64 for Win32
+    *
+------------------------------------------------------------
 TAG
 Tag name: v1r0p6, operation: add
 Package: eventFile
