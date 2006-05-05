@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: blee  Fri May  5 08:27:59 PDT 2006
+CHS/eventFile/src
+
+Modified Files:
+	LSEReader.cxx LSEWriter.cxx 
+Log Message:
+added declaration of _fseeki64 for Win32
+    *
+------------------------------------------------------------
+User: blee  Fri May  5 08:27:59 PDT 2006
 CHS/eventFile/cmt
 
 Modified Files:
