@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: blee  Mon May  8 10:33:13 PDT 2006
+CHS/eventFile/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+another fseek tweak for windows
+    *
+------------------------------------------------------------
 TAG
 Tag name: v1r0p7, operation: add
 Package: eventFile
