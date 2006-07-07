@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: blee  Fri Jul  7 10:00:14 PDT 2006
+CHS/eventFile/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+new file format -- added strobe and earlyEvent flags from DFI V3-4-1
+    *
+------------------------------------------------------------
+User: blee  Fri Jul  7 10:00:14 PDT 2006
 CHS/eventFile/cmt
 
 Modified Files:
