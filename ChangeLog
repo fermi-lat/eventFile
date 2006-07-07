@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: blee  Fri Jul  7 10:00:14 PDT 2006
+CHS/eventFile/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+new file format -- added strobe and earlyEvent flags from DFI V3-4-1
+    *
+------------------------------------------------------------
 TAG
 Tag name: v1r0p9, operation: add
 Package: eventFile
