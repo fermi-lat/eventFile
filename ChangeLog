@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: blee  Fri Jul  7 10:00:15 PDT 2006
+CHS/eventFile/src
+
+Modified Files:
+	LSE_Context.cxx LSFReader.cxx 
+Log Message:
+new file format -- added strobe and earlyEvent flags from DFI V3-4-1
+    *
+------------------------------------------------------------
+User: blee  Fri Jul  7 10:00:15 PDT 2006
 CHS/eventFile/eventFile
 
 Modified Files:
