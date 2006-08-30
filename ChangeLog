@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: blee  Wed Aug 30 13:19:46 PDT 2006
+CHS/eventFile/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+added printout of trigger-timeing info
+    *
+------------------------------------------------------------
+User: blee  Wed Aug 30 13:19:46 PDT 2006
 CHS/eventFile/cmt
 
 Modified Files:
