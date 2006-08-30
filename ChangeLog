@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: blee  Wed Aug 30 12:58:07 PDT 2006
+CHS/eventFile/src
+
+Modified Files:
+	LSE_Info.cxx 
+Log Message:
+added call to base-class dump method to print out timing info
+    *
+------------------------------------------------------------
 TAG
 Tag name: v2, operation: add
 Package: eventFile
