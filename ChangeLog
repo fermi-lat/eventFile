@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: blee  Sat Oct 21 10:16:18 PDT 2006
+CHS/eventFile/eventFile
+
+Modified Files:
+	LSEWriter.h 
+Log Message:
+cleaned up LSEWriter interface to improve encapsulation
+    *
+------------------------------------------------------------
 User: blee  Sat Oct 21 00:43:56 PDT 2006
 CHS/eventFile/eventFile
 
