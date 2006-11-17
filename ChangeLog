@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: blee  Fri Nov 17 15:16:04 PST 2006
+CHS/eventFile/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+modify dumpEvents.exe to dump all events if requested
+    *
+------------------------------------------------------------
+User: blee  Fri Nov 17 15:16:04 PST 2006
 CHS/eventFile/cmt
 
 Modified Files:
