@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: blee  Tue Nov 21 15:48:52 PST 2006
+CHS/eventFile/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+another tweak to LSEWriter for WIN32 compatibility
+    *
+------------------------------------------------------------
 TAG
 Tag name: v2r0p3, operation: add
 Package: eventFile
