@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: blee  Thu Mar  8 12:45:31 PST 2007
+CHS/eventFile/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+added writeMerge.exe, seek method for LSEReader
+    *
+------------------------------------------------------------
+User: blee  Thu Mar  8 12:45:31 PST 2007
 CHS/eventFile/cmt
 
 Modified Files:
