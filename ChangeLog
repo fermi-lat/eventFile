@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: blee  Fri Mar 23 14:10:21 PDT 2007
+CHS/eventFile/src
+
+Modified Files:
+	EBF_Data.cxx writeMerge.cxx 
+Log Message:
+more informative exception-handling in writeMerge.exe
+    *
+------------------------------------------------------------
+User: blee  Fri Mar 23 14:10:21 PDT 2007
 CHS/eventFile/doc
 
 Modified Files:
