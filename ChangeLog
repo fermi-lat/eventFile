@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: blee  Sun Apr  1 14:40:27 PDT 2007
+CHS/eventFile/src
+
+Modified Files:
+	writeMerge.cxx 
+Log Message:
+added errno report to idx-open error, WIN32 ifdef
+    *
+------------------------------------------------------------
 TAG
 Tag name: v2r2, operation: add
 Package: eventFile
