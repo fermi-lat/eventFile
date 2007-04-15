@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: blee  Sun Apr 15 16:50:26 PDT 2007
+CHS/eventFile/src/test
+
+Modified Files:
+	test_LSEReader.cxx 
+Log Message:
+commit of new LSE_Keys structs and associated code
+    *
+------------------------------------------------------------
+User: blee  Sun Apr 15 16:50:26 PDT 2007
 CHS/eventFile/src
 
 Modified Files:
