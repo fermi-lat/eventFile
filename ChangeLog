@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: blee  Sun Apr 15 16:50:26 PDT 2007
+CHS/eventFile/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+commit of new LSE_Keys structs and associated code
+    *
+------------------------------------------------------------
 User: blee  Sun Apr  1 14:40:27 PDT 2007
 CHS/eventFile/src
 
