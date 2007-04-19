@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: blee  Wed Apr 18 20:31:38 PDT 2007
+CHS/eventFile/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+transfer LSE_Keys to lsfData::LsfKeys
+    *
+------------------------------------------------------------
 User: blee  Wed Apr 18 20:18:57 PDT 2007
 CHS/eventFile/src/test
 
