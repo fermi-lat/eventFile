@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: blee  Wed Apr 18 20:18:57 PDT 2007
+CHS/eventFile/eventFile
+
+Modified Files:
+	LSFReader.h 
+Log Message:
+add translated keys to lsfData structures
+    *
+------------------------------------------------------------
 TAG
 Tag name: v3, operation: add
 Package: eventFile
