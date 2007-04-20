@@ -1,22 +1,4 @@
 ------------------------------------------------------------
-User: blee  Fri Apr 20 16:54:25 PDT 2007
-CHS/eventFile/doc
-
-Modified Files:
-	release.notes 
-Log Message:
-rename LPA_Keys.LPA_DB to CDM_keys to better reflect content
-    *
-------------------------------------------------------------
-User: blee  Fri Apr 20 16:54:25 PDT 2007
-CHS/eventFile/cmt
-
-Modified Files:
-	requirements 
-Log Message:
-rename LPA_Keys.LPA_DB to CDM_keys to better reflect content
-    *
-------------------------------------------------------------
 TAG
 Tag name: v3r1, operation: add
 Package: eventFile
