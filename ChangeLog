@@ -1,4 +1,47 @@
 ------------------------------------------------------------
+TAG
+Tag name: v3r3, operation: add
+Package: eventFile
+User: blee  Fri Apr 27 09:44:19 2007
+Files:
+  eventFile/.cvsignore  1.1.1.1
+  eventFile/ChangeLog  1.128
+  eventFile/cmt/.cvsignore  1.2
+  eventFile/cmt/requirements  1.33
+  eventFile/doc/.cvsignore  1.1.1.1
+  eventFile/doc/release.notes  1.19
+  eventFile/eventFile/LSEWriter.h  1.7
+  eventFile/eventFile/LSEReader.h  1.7
+  eventFile/eventFile/LSEHeader.h  1.2
+  eventFile/eventFile/LSE_GemTime.h  1.2
+  eventFile/eventFile/LSE_Event.h  1.1
+  eventFile/eventFile/LSE_Info.h  1.5
+  eventFile/eventFile/LSE_Context.h  1.4
+  eventFile/eventFile/LSE_Keys.h  1.3
+  eventFile/eventFile/LSFReader.h  1.2
+  eventFile/eventFile/EBF_Data.h  1.3
+  eventFile/src/shared_ptr.i  1.1
+  eventFile/src/LSEWriter.cxx  1.12
+  eventFile/src/LSE_Context.cxx  1.3
+  eventFile/src/writeMerge.cxx  1.5
+  eventFile/src/EBF_Data.cxx  1.4
+  eventFile/src/LSE_Keys.cxx  1.3
+  eventFile/src/mainpage.h  1.1.1.1
+  eventFile/src/LSEReader.cxx  1.10
+  eventFile/src/eventFile.in  1.1
+  eventFile/src/LSE_Info.cxx  1.3
+  eventFile/src/LSEHeader.cxx  1.2
+  eventFile/src/LSE_GemTime.cxx  1.1.1.1
+  eventFile/src/LSFReader.cxx  1.5
+  eventFile/src/test/test_LSFReader.cxx  1.3
+  eventFile/src/test/dumpEvent.cxx  1.2
+  eventFile/src/test/LDFdump.cxx  1.1
+  eventFile/src/test/allgamma.txt  1.1
+  eventFile/src/test/events.lpa  1.2
+  eventFile/src/test/test_LSEReader.cxx  1.5
+
+    *
+------------------------------------------------------------
 User: blee  Fri Apr 27 09:44:05 PDT 2007
 CHS/eventFile/src
 
