@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: blee  Fri Apr 27 09:44:04 PDT 2007
+CHS/eventFile/eventFile
+
+Modified Files:
+	EBF_Data.h LSEReader.h LSE_Context.h LSE_Info.h LSE_Keys.h 
+Added Files:
+	LSE_Event.h 
+Log Message:
+added SWIG Python wrapper for LSEReader
+    *
+------------------------------------------------------------
 User: blee  Fri Apr 27 09:44:02 PDT 2007
 CHS/eventFile/doc
 
