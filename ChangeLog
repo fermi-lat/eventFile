@@ -1,33 +1,4 @@
 ------------------------------------------------------------
-User: blee  Fri Apr 27 09:44:04 PDT 2007
-CHS/eventFile/eventFile
-
-Modified Files:
-	EBF_Data.h LSEReader.h LSE_Context.h LSE_Info.h LSE_Keys.h 
-Added Files:
-	LSE_Event.h 
-Log Message:
-added SWIG Python wrapper for LSEReader
-    *
-------------------------------------------------------------
-User: blee  Fri Apr 27 09:44:02 PDT 2007
-CHS/eventFile/doc
-
-Modified Files:
-	release.notes 
-Log Message:
-added SWIG Python wrapper for LSEReader
-    *
-------------------------------------------------------------
-User: blee  Fri Apr 27 09:44:01 PDT 2007
-CHS/eventFile/cmt
-
-Modified Files:
-	.cvsignore requirements 
-Log Message:
-added SWIG Python wrapper for LSEReader
-    *
-------------------------------------------------------------
 TAG
 Tag name: v3r2, operation: add
 Package: eventFile
