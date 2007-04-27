@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: blee  Fri Apr 27 09:44:05 PDT 2007
+CHS/eventFile/src
+
+Modified Files:
+	EBF_Data.cxx LSEReader.cxx LSE_Context.cxx 
+Added Files:
+	eventFile.in shared_ptr.i 
+Log Message:
+added SWIG Python wrapper for LSEReader
+    *
+------------------------------------------------------------
 User: blee  Fri Apr 27 09:44:04 PDT 2007
 CHS/eventFile/eventFile
 
