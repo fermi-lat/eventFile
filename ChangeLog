@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: blee  Fri Apr 27 09:44:01 PDT 2007
+CHS/eventFile/cmt
+
+Modified Files:
+	.cvsignore requirements 
+Log Message:
+added SWIG Python wrapper for LSEReader
+    *
+------------------------------------------------------------
 TAG
 Tag name: v3r2, operation: add
 Package: eventFile
