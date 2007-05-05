@@ -1,5 +1,16 @@
 ------------------------------------------------------------
 User: blee  Sat May  5 12:43:44 PDT 2007
+CHS/eventFile/eventFile
+
+Modified Files:
+	LSEReader.h 
+Removed Files:
+	LSE_Event.h 
+Log Message:
+moved SWIG wrapper to CHS/pyeventFile
+    *
+------------------------------------------------------------
+User: blee  Sat May  5 12:43:44 PDT 2007
 CHS/eventFile/doc
 
 Modified Files:
