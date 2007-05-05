@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: blee  Sat May  5 12:43:44 PDT 2007
+CHS/eventFile/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+moved SWIG wrapper to CHS/pyeventFile
+    *
+------------------------------------------------------------
 TAG
 Tag name: v3r3, operation: add
 Package: eventFile
