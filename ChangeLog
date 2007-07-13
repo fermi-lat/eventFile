@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: blee  Fri Jul 13 10:40:54 PDT 2007
+CHS/eventFile/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+fix for 0-length CDM_keys lists
+    *
+------------------------------------------------------------
 User: blee  Fri Jul 13 10:40:53 PDT 2007
 CHS/eventFile/cmt
 
