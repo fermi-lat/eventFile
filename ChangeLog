@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: decot  Fri Jul 13 10:27:12 PDT 2007
+CHS/eventFile/doc
+
+Added Files:
+	footer.html isoc_eventfile.dox 
+Log Message:
+added doxygen config (from isoc installations patch)
+    *
+------------------------------------------------------------
 TAG
 Tag name: v3r4, operation: add
 Package: eventFile
