@@ -1,13 +1,4 @@
 ------------------------------------------------------------
-User: blee  Fri Jul 13 10:40:53 PDT 2007
-CHS/eventFile/cmt
-
-Modified Files:
-	requirements 
-Log Message:
-fix for 0-length CDM_keys lists
-    *
-------------------------------------------------------------
 User: decot  Fri Jul 13 10:28:01 PDT 2007
 CHS/eventFile/doc
 
