@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: blee  Fri Sep 21 13:27:36 PDT 2007
+CHS/eventFile/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+remove obsolete files from src/test/
+    *
+------------------------------------------------------------
 TAG
 Tag name: v5r4p1, operation: add
 Package: eventFile
