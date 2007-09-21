@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: blee  Fri Sep 21 13:27:36 PDT 2007
+CHS/eventFile/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+remove obsolete files from src/test/
+    *
+------------------------------------------------------------
+User: blee  Fri Sep 21 13:27:36 PDT 2007
 CHS/eventFile/cmt
 
 Modified Files:
