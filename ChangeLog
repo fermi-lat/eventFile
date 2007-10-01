@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: blee  Mon Oct  1 11:47:57 PDT 2007
+CHS/eventFile/src
+
+Modified Files:
+	writeMerge.cxx 
+Log Message:
+add LATC-key overrides to writeMerge.exe
+    *
+------------------------------------------------------------
+User: blee  Mon Oct  1 11:47:57 PDT 2007
 CHS/eventFile/doc
 
 Modified Files:
