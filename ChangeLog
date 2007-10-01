@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: blee  Mon Oct  1 11:47:56 PDT 2007
+CHS/eventFile/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+add LATC-key overrides to writeMerge.exe
+    *
+------------------------------------------------------------
 TAG
 Tag name: v3r4p3, operation: add
 Package: eventFile
