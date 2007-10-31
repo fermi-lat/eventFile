@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: blee  Tue Oct 30 17:11:34 PDT 2007
+CHS/eventFile/src/test
+
+Removed Files:
+      Tag: v3r4p4
+	dumpEvent.cxx test_LSFReader.cxx 
+Log Message:
+Moved LSFReader class to lsfData
+    *
+------------------------------------------------------------
+User: blee  Tue Oct 30 17:11:34 PDT 2007
 CHS/eventFile/src
 
 Removed Files:
