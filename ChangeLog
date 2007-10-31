@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: blee  Tue Oct 30 17:14:36 PDT 2007
+CHS/eventFile/eventFile
+
+Removed Files:
+	LSFReader.h 
+Log Message:
+remove LSFReader-related files
+    *
+------------------------------------------------------------
 User: blee  Tue Oct 30 17:11:34 PDT 2007
 CHS/eventFile/src/test
 
