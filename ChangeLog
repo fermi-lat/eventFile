@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: blee  Tue Oct 30 17:11:34 PDT 2007
+CHS/eventFile/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+Moved LSFReader class to lsfData
+    *
+------------------------------------------------------------
 TAG
 Tag name: v3r4p4, operation: add
 Package: eventFile
