@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: blee  Fri Feb 15 09:16:35 PST 2008
+CHS/eventFile/cmt
+
+Modified Files:
+      Tag: branch_v3
+	requirements 
+Log Message:
+For ICS-679 make merged-chunk size dynamically variable
+    *
+------------------------------------------------------------
 TAG
 Tag name: eventFile-04-00-01, operation: add
 Package: eventFile
