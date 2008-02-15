@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: blee  Fri Feb 15 09:16:35 PST 2008
+CHS/eventFile/src
+
+Modified Files:
+      Tag: branch_v3
+	writeMerge.cxx 
+Log Message:
+For ICS-679 make merged-chunk size dynamically variable
+    *
+------------------------------------------------------------
+User: blee  Fri Feb 15 09:16:35 PST 2008
 CHS/eventFile/doc
 
 Modified Files:
