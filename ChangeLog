@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: blee  Fri Feb 15 08:00:51 PST 2008
+CHS/eventFile/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+For ICS-679 make writeMerge.exe vary the size of output chunks
+    *
+------------------------------------------------------------
+User: blee  Fri Feb 15 08:00:51 PST 2008
 CHS/eventFile/cmt
 
 Modified Files:
