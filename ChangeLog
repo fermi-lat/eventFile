@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: blee  Fri Feb 15 09:25:19 PST 2008
+CHS/eventFile/src
+
+Modified Files:
+	writeMerge.cxx 
+Log Message:
+Made writeMerge chunk scaling controllable by env vars
+    *
+------------------------------------------------------------
+User: blee  Fri Feb 15 09:25:19 PST 2008
 CHS/eventFile/doc
 
 Modified Files:
