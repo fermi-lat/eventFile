@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: blee  Fri Feb 15 09:25:19 PST 2008
+CHS/eventFile/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+Made writeMerge chunk scaling controllable by env vars
+    *
+------------------------------------------------------------
 TAG
 Tag name: v3r5p1, operation: add
 Package: eventFile
