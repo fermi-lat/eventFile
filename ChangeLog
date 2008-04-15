@@ -1,5 +1,16 @@
 ------------------------------------------------------------
 User: blee  Mon Apr 14 22:42:54 PDT 2008
+CHS/eventFile/eventFile
+
+Modified Files:
+	LSEHeader.h LSEReader.h LSE_Info.h LSE_Keys.h 
+Added Files:
+	LPA_Handler.h 
+Log Message:
+update to new DFI
+    *
+------------------------------------------------------------
+User: blee  Mon Apr 14 22:42:54 PDT 2008
 CHS/eventFile/doc
 
 Modified Files:
