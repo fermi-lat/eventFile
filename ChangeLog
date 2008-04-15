@@ -1,5 +1,17 @@
 ------------------------------------------------------------
 User: blee  Mon Apr 14 22:42:54 PDT 2008
+CHS/eventFile/src
+
+Modified Files:
+	LSEHeader.cxx LSEReader.cxx LSEWriter.cxx LSE_Info.cxx 
+	LSE_Keys.cxx writeMerge.cxx 
+Added Files:
+	LPA_Handler.cxx 
+Log Message:
+update to new DFI
+    *
+------------------------------------------------------------
+User: blee  Mon Apr 14 22:42:54 PDT 2008
 CHS/eventFile/eventFile
 
 Modified Files:
