@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: blee  Mon Apr 14 22:42:53 PDT 2008
+CHS/eventFile/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+update to new DFI
+    *
+------------------------------------------------------------
 TAG
 Tag name: eventFile-04-00-02, operation: add
 Package: eventFile
