@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: blee  Mon Apr 14 22:42:54 PDT 2008
+CHS/eventFile/src/test
+
+Modified Files:
+	test_LSEReader.cxx 
+Log Message:
+update to new DFI
+    *
+------------------------------------------------------------
+User: blee  Mon Apr 14 22:42:54 PDT 2008
 CHS/eventFile/src
 
 Modified Files:
