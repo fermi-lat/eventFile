@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: blee  Thu Apr 17 12:04:49 PDT 2008
+CHS/eventFile/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+oops, v6r0 seems to be taken
+    *
+------------------------------------------------------------
 TAG
 Tag name: v6r0, operation: add
 Package: eventFile
