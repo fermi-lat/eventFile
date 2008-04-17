@@ -1,5 +1,43 @@
 ------------------------------------------------------------
 TAG
+Tag name: v6r0, operation: del
+Package: eventFile
+User: glast  Thu Apr 17 12:26:47 2008
+Files:
+  eventFile/.cvsignore  1.1.1.1
+  eventFile/ChangeLog  1.169
+  eventFile/cmt/.cvsignore  1.2
+  eventFile/cmt/requirements  1.40
+  eventFile/doc/.cvsignore  1.1.1.1
+  eventFile/doc/release.notes  1.26
+  eventFile/doc/footer.html  1.1
+  eventFile/doc/isoc_eventfile.dox  1.2
+  eventFile/eventFile/LSEWriter.h  1.7
+  eventFile/eventFile/LSEReader.h  1.8
+  eventFile/eventFile/LSEHeader.h  1.2
+  eventFile/eventFile/LSE_GemTime.h  1.2
+  eventFile/eventFile/LSE_Info.h  1.6
+  eventFile/eventFile/LPA_Handler.h  1.1
+  eventFile/eventFile/LSE_Context.h  1.5
+  eventFile/eventFile/LSE_Keys.h  1.3
+  eventFile/eventFile/EBF_Data.h  1.3
+  eventFile/src/writeMerge.cxx  1.6
+  eventFile/src/mainpage.h  1.1.1.1
+  eventFile/src/LSE_Keys.cxx  1.3
+  eventFile/src/EBF_Data.cxx  1.4
+  eventFile/src/LSEReader.cxx  1.12
+  eventFile/src/LSE_Info.cxx  1.4
+  eventFile/src/LSEWriter.cxx  1.12
+  eventFile/src/LSEHeader.cxx  1.2
+  eventFile/src/LPA_Handler.cxx  1.1
+  eventFile/src/LSE_GemTime.cxx  1.1.1.1
+  eventFile/src/LSE_Context.cxx  1.4
+  eventFile/src/test/LDFdump.cxx  1.1
+  eventFile/src/test/test_LSEReader.cxx  1.5
+
+    *
+------------------------------------------------------------
+TAG
 Tag name: eventFile-07-00-00, operation: add
 Package: eventFile
 User: glastrm  Thu Apr 17 12:15:36 2008
