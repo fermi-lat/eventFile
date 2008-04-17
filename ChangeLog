@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+TAG
+Tag name: v6r0, operation: add
+Package: eventFile
+User: blee  Thu Apr 17 11:58:50 2008
+Files:
+  eventFile/eventFile/LPA_Handler.h  1.1
+  eventFile/src/LPA_Handler.cxx  1.1
+
+    *
+------------------------------------------------------------
 User: blee  Thu Apr 17 11:58:36 PDT 2008
 CHS/eventFile/src
 
