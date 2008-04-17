@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: blee  Thu Apr 17 11:58:36 PDT 2008
+CHS/eventFile/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+TKR LCI changes for Philip
+    *
+------------------------------------------------------------
 TAG
 Tag name: eventFile-05-00-00, operation: add
 Package: eventFile
