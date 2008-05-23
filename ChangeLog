@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: blee  Fri May 23 13:38:12 PDT 2008
+CHS/eventFile/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+remove vestigial LDF dependency
+    *
+------------------------------------------------------------
 TAG
 Tag name: eventFile-06-00-00, operation: add
 Package: eventFile
