@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: blee  Fri May 23 13:38:12 PDT 2008
+CHS/eventFile/src/test
+
+Modified Files:
+	test_LSEReader.cxx 
+Log Message:
+remove vestigial LDF dependency
+    *
+------------------------------------------------------------
+User: blee  Fri May 23 13:38:12 PDT 2008
 CHS/eventFile/doc
 
 Modified Files:
