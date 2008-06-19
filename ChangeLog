@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: blee  Thu Jun 19 16:14:09 PDT 2008
+CHS/eventFile/eventFile
+
+Modified Files:
+	LSEHeader.h LSEWriter.h LSE_Context.h 
+Log Message:
+For ICS-770 inject MOOT key/alias into writeMerge-generated .evt files
+    *
+------------------------------------------------------------
+User: blee  Thu Jun 19 16:14:09 PDT 2008
 CHS/eventFile/doc
 
 Modified Files:
