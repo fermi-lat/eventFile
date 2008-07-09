@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: glastrm  Wed Jul  9 14:13:40 PDT 2008
+GlastRelease-scons/CHS/eventFile
+
+Added Files:
+	SConscript eventFileLib.py 
+Log Message:
+Added SConscript files to packages
+    *
+------------------------------------------------------------
 TAG
 Tag name: eventFile-07-00-00, operation: add
 Package: eventFile
