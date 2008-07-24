@@ -1,5 +1,13 @@
 ------------------------------------------------------------
 User: blee  Thu Jul 24 14:16:25 PDT 2008
+CHS/eventFile/src
+
+Modified Files:
+	LPA_Handler.cxx LSEWriter.cxx LSE_Info.cxx writeMerge.cxx 
+Log Message:
+    *
+------------------------------------------------------------
+User: blee  Thu Jul 24 14:16:25 PDT 2008
 CHS/eventFile/eventFile
 
 Modified Files:
