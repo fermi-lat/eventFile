@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+TAG
+Tag name: v8r0, operation: mov
+Package: eventFile
+User: glastrm  Thu Jul 24 14:30:26 2008
+Files:
+  eventFile/SConscript  1.2
+
+    *
+------------------------------------------------------------
 User: glastrm  Thu Jul 24 14:30:20 PDT 2008
 CHS/eventFile
 
