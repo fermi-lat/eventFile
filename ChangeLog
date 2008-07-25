@@ -1,4 +1,12 @@
 ------------------------------------------------------------
+User: glastrm  Thu Jul 24 17:30:20 PDT 2008
+CHS/eventFile
+
+Modified Files:
+	SConscript 
+Log Message:
+    *
+------------------------------------------------------------
 TAG
 Tag name: v8r0p1, operation: add
 Package: eventFile
