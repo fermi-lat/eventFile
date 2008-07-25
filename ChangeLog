@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: blee  Fri Jul 25 14:44:08 PDT 2008
+CHS/eventFile/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+Fix typo in LPA_Handler.cxx
+    *
+------------------------------------------------------------
 TAG
 Tag name: eventFile-08-00-01, operation: add
 Package: eventFile
