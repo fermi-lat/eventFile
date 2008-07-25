@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: blee  Fri Jul 25 14:44:08 PDT 2008
+CHS/eventFile/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+Fix typo in LPA_Handler.cxx
+    *
+------------------------------------------------------------
+User: blee  Fri Jul 25 14:44:08 PDT 2008
 CHS/eventFile/cmt
 
 Modified Files:
