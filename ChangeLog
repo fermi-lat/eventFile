@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: blee  Thu Jul 24 17:24:43 PDT 2008
+CHS/eventFile/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+remove build-time dependency on IExternal/fsw
+    *
+------------------------------------------------------------
 TAG
 Tag name: eventFile-08-00-00, operation: add
 Package: eventFile
