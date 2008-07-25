@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: blee  Thu Jul 24 17:24:43 PDT 2008
+CHS/eventFile/eventFile
+
+Modified Files:
+	LPA_Handler.h 
+Log Message:
+remove build-time dependency on IExternal/fsw
+    *
+------------------------------------------------------------
+User: blee  Thu Jul 24 17:24:43 PDT 2008
 CHS/eventFile/doc
 
 Modified Files:
