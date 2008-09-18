@@ -1,4 +1,12 @@
 ------------------------------------------------------------
+User: glastrm  Thu Sep 18 09:30:20 PDT 2008
+CHS/eventFile
+
+Modified Files:
+	SConscript 
+Log Message:
+    *
+------------------------------------------------------------
 TAG
 Tag name: v9r0, operation: add
 Package: eventFile
