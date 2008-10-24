@@ -1,4 +1,12 @@
 ------------------------------------------------------------
+User: blee  Fri Oct 24 15:32:14 PDT 2008
+CHS-scons/eventFile
+
+Modified Files:
+	.cvsignore SConscript 
+Log Message:
+    *
+------------------------------------------------------------
 TAG
 Tag name: eventFile-09-00-00, operation: add
 Package: eventFile
