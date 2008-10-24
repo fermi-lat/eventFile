@@ -1,5 +1,13 @@
 ------------------------------------------------------------
 User: blee  Fri Oct 24 15:32:14 PDT 2008
+CHS-scons/eventFile/src
+
+Added Files:
+	LSE_Event.h py_eventFile.i shared_ptr.i 
+Log Message:
+    *
+------------------------------------------------------------
+User: blee  Fri Oct 24 15:32:14 PDT 2008
 CHS-scons/eventFile
 
 Modified Files:
