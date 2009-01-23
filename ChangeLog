@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 TAG
+Tag name: GlastRelease-15-49-00, operation: mov
+Package: eventFile
+User: glastrm  Thu Jan 22 17:50:36 2009
+Files:
+  eventFile/SConscript  1.9
+
+    *
+------------------------------------------------------------
+TAG
 Tag name: v9r0, operation: mov
 Package: eventFile
 User: glastrm  Thu Jan 22 17:48:05 2009
