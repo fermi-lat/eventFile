@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+TAG
+Tag name: v9r0, operation: mov
+Package: eventFile
+User: glastrm  Thu Jan 22 16:31:44 2009
+Files:
+  eventFile/SConscript  1.8
+  eventFile/SConscript  1.8
+
+    *
+------------------------------------------------------------
 User: ecephas  Thu Jan 22 16:07:30 PST 2009
 GlastRelease-scons/CHS/eventFile
 
