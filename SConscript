@@ -1,7 +1,7 @@
 # -*- python -*-
 # $Header$
 # Authors: Bryson Lee <blee@slac.stanford.edu>
-# Version: eventFile-08-00-02
+# Version: eventFile-09-00-00
 Import('baseEnv')
 Import('listFiles')
 Import('packages')
@@ -27,3 +27,4 @@ test_LSEReader = progEnv.Program('test_LSEReader', 'src/test/test_LSEReader.cxx'
 progEnv.Tool('registerObjects', package = 'eventFile', libraries = [eventFile], binaries = [writeMerge], testApps = [test_LSEReader], includes = listFiles(['eventFile/*.h']))
 
                                                                 
+
