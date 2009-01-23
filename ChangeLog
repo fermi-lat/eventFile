@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: ecephas  Thu Jan 22 17:40:20 PST 2009
+GlastRelease-scons/CHS/eventFile
+
+Modified Files:
+	SConscript 
+Log Message:
+Changed the version string from CHS/eventFile-09-00-00 to eventFile-09-00-00
+    *
+------------------------------------------------------------
 TAG
 Tag name: v9r0, operation: mov
 Package: eventFile
