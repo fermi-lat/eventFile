@@ -2,6 +2,18 @@
 TAG
 Tag name: eventFile-09-00-01, operation: add
 Package: eventFile
+User: jrb  Thu Jul 30 17:36:58 2009
+Files:
+  eventFile/doc/.cvsignore  1.1.1.1
+  eventFile/doc/release.notes  1.37
+  eventFile/doc/footer.html  1.1
+  eventFile/doc/isoc_eventfile.dox  1.2
+
+    *
+------------------------------------------------------------
+TAG
+Tag name: eventFile-09-00-01, operation: add
+Package: eventFile
 User: jrb  Thu Jul 30 17:36:52 2009
 Files:
   eventFile/cmt/.cvsignore  1.2
