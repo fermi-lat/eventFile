@@ -2,6 +2,30 @@
 TAG
 Tag name: eventFile-09-00-01, operation: add
 Package: eventFile
+User: jrb  Thu Jul 30 17:37:10 2009
+Files:
+  eventFile/src/shared_ptr.i  1.3
+  eventFile/src/LSE_Event.h  1.1
+  eventFile/src/LSEWriter.cxx  1.15
+  eventFile/src/LPA_Handler.cxx  1.5
+  eventFile/src/py_eventFile.i  1.1
+  eventFile/src/LSE_Context.cxx  1.5
+  eventFile/src/writeMerge.cxx  1.11
+  eventFile/src/mainpage.h  1.1.1.1
+  eventFile/src/LSE_Keys.cxx  1.4
+  eventFile/src/EBF_Data.cxx  1.4
+  eventFile/src/LSEReader.cxx  1.13
+  eventFile/src/LSE_Info.cxx  1.7
+  eventFile/src/LSEHeader.cxx  1.4
+  eventFile/src/LSE_GemTime.cxx  1.1.1.1
+  eventFile/src/test/LDFdump.cxx  1.1
+  eventFile/src/test/test_LSEReader.cxx  1.7
+
+    *
+------------------------------------------------------------
+TAG
+Tag name: eventFile-09-00-01, operation: add
+Package: eventFile
 User: jrb  Thu Jul 30 17:37:04 2009
 Files:
   eventFile/eventFile/LSEWriter.h  1.9
