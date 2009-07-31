@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Thu Jul 30 17:33:06 PDT 2009
+CHS-scons/eventFile
+
+Modified Files:
+	SConscript 
+Log Message:
+Switch to registerTargets
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: CHS-10-01-00, operation: add
 Package: eventFile
