@@ -1,4 +1,16 @@
 ------------------------------------------------------------
+TAG
+Tag name: eventFile-09-00-01, operation: add
+Package: eventFile
+User: jrb  Thu Jul 30 17:36:47 2009
+Files:
+  eventFile/.cvsignore  1.2
+  eventFile/eventFileLib.py  1.1
+  eventFile/ChangeLog  1.326
+  eventFile/SConscript  1.11
+
+    *
+------------------------------------------------------------
 User: jrb  Thu Jul 30 17:36:41 PDT 2009
 CHS-scons/eventFile/doc
 
