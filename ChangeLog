@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: panetta  Wed Nov  4 16:59:51 PST 2009
+CHS-scons/eventFile
+
+Modified Files:
+	SConscript 
+Log Message:
+Format change for SConscript: binaries->binaryCxts ; testApps->testAppCxts
+    *
+------------------------------------------------------------
 TAG
 Tag name: eventFile-09-00-01, operation: add
 Package: eventFile
