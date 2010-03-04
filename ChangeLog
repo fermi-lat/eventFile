@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: jrb  Wed Mar  3 19:03:26 PST 2010
+CHS-scons/eventFile
+
+Modified Files:
+	SConscript 
+Log Message:
+Use addLinkDeps
+    *
+------------------------------------------------------------
 TAG
 Tag name: CHS-11-00-00, operation: add
 Package: eventFile
