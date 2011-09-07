@@ -1,5 +1,17 @@
 ------------------------------------------------------------
 TAG
+Tag name: GlastRelease-19-03-07, operation: add
+Package: eventFile
+User: heather  Wed Sep  7 10:47:16 2011
+Files:
+  eventFile/.cvsignore  1.2
+  eventFile/eventFileLib.py  1.1
+  eventFile/ChangeLog  1.337
+  eventFile/SConscript  1.14
+
+    *
+------------------------------------------------------------
+TAG
 Tag name: GlastRelease-19-03-07, operation: del
 Package: eventFile
 User: glastrm  Tue Sep  6 14:13:52 2011
