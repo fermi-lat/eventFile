@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: cohen  Tue Jan 24 13:24:35 PST 2012
+GlastRelease-scons/CHS/eventFile/src
+
+Modified Files:
+	EBF_Data.cxx LPA_Handler.cxx LSEReader.cxx LSEWriter.cxx 
+	LSE_Info.cxx 
+Log Message:
+fix C library includes for gcc4.4 compilation
+    *
+------------------------------------------------------------
 TAG
 Tag name: GlastRelease-17-35-24-br01, operation: add
 Package: eventFile
