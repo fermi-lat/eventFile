@@ -1,5 +1,48 @@
 ------------------------------------------------------------
 TAG
+Tag name: GlastRelease-19-04-01-gr08, operation: add
+Package: eventFile
+User: heather  Thu Feb  9 16:11:12 2012
+Files:
+  eventFile/.cvsignore  1.2
+  eventFile/eventFileLib.py  1.1
+  eventFile/ChangeLog  1.337
+  eventFile/SConscript  1.14
+  eventFile/cmt/.cvsignore  1.2
+  eventFile/cmt/requirements  1.51
+  eventFile/doc/.cvsignore  1.1.1.1
+  eventFile/doc/release.notes  1.38
+  eventFile/doc/footer.html  1.1
+  eventFile/doc/isoc_eventfile.dox  1.2
+  eventFile/eventFile/LSEWriter.h  1.9
+  eventFile/eventFile/LSEReader.h  1.9
+  eventFile/eventFile/LSEHeader.h  1.7
+  eventFile/eventFile/LSE_GemTime.h  1.2
+  eventFile/eventFile/LSE_Info.h  1.9
+  eventFile/eventFile/LPA_Handler.h  1.4
+  eventFile/eventFile/LSE_Context.h  1.6
+  eventFile/eventFile/LSE_Keys.h  1.4
+  eventFile/eventFile/EBF_Data.h  1.3
+  eventFile/src/shared_ptr.i  1.3
+  eventFile/src/LSE_Event.h  1.1
+  eventFile/src/LSEWriter.cxx  1.15
+  eventFile/src/LPA_Handler.cxx  1.5
+  eventFile/src/py_eventFile.i  1.1
+  eventFile/src/LSE_Context.cxx  1.5
+  eventFile/src/writeMerge.cxx  1.11
+  eventFile/src/mainpage.h  1.1.1.1
+  eventFile/src/LSE_Keys.cxx  1.4
+  eventFile/src/EBF_Data.cxx  1.4
+  eventFile/src/LSEReader.cxx  1.13
+  eventFile/src/LSE_Info.cxx  1.7
+  eventFile/src/LSEHeader.cxx  1.4
+  eventFile/src/LSE_GemTime.cxx  1.1.1.1
+  eventFile/src/test/LDFdump.cxx  1.1
+  eventFile/src/test/test_LSEReader.cxx  1.7
+
+    *
+------------------------------------------------------------
+TAG
 Tag name: GlastRelease-17-35-24-gr22, operation: add
 Package: eventFile
 User: heather  Wed Feb  8 13:49:37 2012
