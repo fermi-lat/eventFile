@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: jrb  Fri Aug 17 11:48:35 PDT 2012
+GlastRelease-scons/CHS/eventFile
+
+Modified Files:
+	eventFileLib.py 
+Log Message:
+patches for Windows no-install-headers
+    *
+------------------------------------------------------------
 User: jrb  Thu Jun 28 14:35:31 PDT 2012
 CHS/eventFile/cmt
 
