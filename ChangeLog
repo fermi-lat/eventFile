@@ -1,4 +1,16 @@
 ------------------------------------------------------------
+User: tether  Mon Jun 15 17:16:27 PDT 2015
+CHS-scons/eventFile/src
+
+Modified Files:
+	LSEReader.cxx 
+Log Message:
+LPATE-188 Don't read or write size_t values directly to or from a file
+because the size of the type differs between 32-bit and 64-bit
+platforms.
+
+    *
+------------------------------------------------------------
 User: jrb  Fri Aug 17 16:57:54 PDT 2012
 CHS/eventFile/cmt
 
